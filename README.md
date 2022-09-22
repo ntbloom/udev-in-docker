@@ -1,4 +1,4 @@
-# fd-in-docker
+# udev-in-docker
 
 ## use custom udev file descriptors inside your docker containers
 
