@@ -1,0 +1,5 @@
+FROM ubuntu:latest
+
+# use the raw file descriptor
+ENTRYPOINT ["cat", "/dev/ttyACM0"]
+
